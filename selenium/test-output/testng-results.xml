@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T22:55:47 IST" name="Default suite" finished-at="2024-01-18T22:55:47 IST" duration-ms="81">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T22:55:47 IST" name="Default test" finished-at="2024-01-18T22:55:47 IST" duration-ms="81">
+      <class name="seleniumpkg.NewClasstestng">
+        <test-method is-config="true" signature="bg()[pri:0, instance:seleniumpkg.NewClasstestng@1a451d4d]" started-at="2024-01-18T22:55:47 IST" name="bg" finished-at="2024-01-18T22:55:47 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bg -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:seleniumpkg.NewClasstestng@1a451d4d]" started-at="2024-01-18T22:55:47 IST" name="bm" finished-at="2024-01-18T22:55:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="testa()[pri:0, instance:seleniumpkg.NewClasstestng@1a451d4d]" started-at="2024-01-18T22:55:47 IST" name="testa" finished-at="2024-01-18T22:55:47 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testa -->
+        <test-method is-config="true" signature="am()[pri:0, instance:seleniumpkg.NewClasstestng@1a451d4d]" started-at="2024-01-18T22:55:47 IST" name="am" finished-at="2024-01-18T22:55:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:seleniumpkg.NewClasstestng@1a451d4d]" started-at="2024-01-18T22:55:47 IST" name="ac" finished-at="2024-01-18T22:55:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- seleniumpkg.NewClasstestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

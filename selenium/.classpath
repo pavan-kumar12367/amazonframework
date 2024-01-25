@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/selenium-server-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/commons-compress-1.25.0.jar"/>
+	<classpathentry kind="lib" path="D:/commons-io-2.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/docker-java-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/docker-java-api-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/docker-java-core-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/docker-java-transport-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/docker-java-transport-httpclient5-3.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/slf4j-api-2.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/webdrivermanager-5.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/xmlsec-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/xmlgraphics-commons-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/pdfbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/graphics2d-0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/bcprov-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/fontbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/batik-all-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/bcpkix-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/poi-5.0.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
